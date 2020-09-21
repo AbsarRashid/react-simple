@@ -1,4 +1,4 @@
-## Basic React Leaning
+# Basic React Leaning
 
 1. Used React and ReactDom CDN
 2. Used babel cdn for jsx
